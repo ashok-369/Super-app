@@ -1,6 +1,6 @@
 # Super App — Production-Ready Portal
 
-A highly polished, responsive, and pixel-perfect unified dashboard and entertainment discovery application built using **React 19**, **Vite**, **TypeScript**, **Zustand**, and **Tailwind CSS v4**.
+A highly polished, responsive, and pixel-perfect unified dashboard and entertainment discovery application built using **React 19**, **Vite**, **JavaScript**, **Zustand**, and **Tailwind CSS v4**.
 
 ---
 
